@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm John Jovi Sidabutar</h1>
-<p>🌱 I’m currently learning <b>Cloud computing & Linux</b></p>
+<p>🌱 I’m interested in <b>Cloud computing & Linux</b></p>
 
 <h3 align="left">I love working with:</h3>
 <p align="left">
