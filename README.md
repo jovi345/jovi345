@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Jovi Sidabutar</h1>
+<h1 align="left">Hi 👋, I'm John Jovi Sidabutar</h1>
 - 🌱 I’m currently learning **Cloud computing & Linux**
 
 <h3 align="left">I love working with:</h3>
