@@ -137,4 +137,4 @@
   </a>
 </p>
 
-I play [Chess](https://www.chess.com/member/joko_piano)
+🎮 I play [Chess](https://www.chess.com/member/joko_piano)
