@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm John Jovi Sidabutar</h1>
+<h1 align="left">Hi 👋, I'm Jovi</h1>
 <p>🌱 I’m interested in <b>Cloud computing & Linux</b></p>
 
 <h3 align="left">I love working with:</h3>
@@ -136,3 +136,5 @@
       height="40" />
   </a>
 </p>
+
+I play [Chess](https://www.chess.com/member/joko_piano)
