@@ -137,3 +137,4 @@
   </a>
 </p>
 
+<p>I love </p><a href="https://www.chess.com/member/joko_piano" target="_blank" rel="noopener noreferrer" >Chess</a>
