@@ -136,5 +136,3 @@
       height="40" />
   </a>
 </p>
-
-<p style="display: inline;">I love </p><a href="https://www.chess.com/member/joko_piano" target="_blank" rel="noopener noreferrer" style="display: inline;">Chess</a>
