@@ -137,6 +137,4 @@
   </a>
 </p>
 
-<div align="left" display="inline">
-  <p>I love </p><a href="https://www.chess.com/member/joko_piano" target="_blank" rel="noopener noreferrer" >Chess</a>
-</div>
+<p style="display: inline;">I love </p><a href="https://www.chess.com/member/joko_piano" target="_blank" rel="noopener noreferrer" style="display: inline;">Chess</a>
