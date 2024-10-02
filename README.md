@@ -63,7 +63,6 @@
       width="40"
       height="40" />
   </a>
-
   <a
     href="https://www.mysql.com/"
     target="_blank"
