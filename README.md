@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jovi</h1>
 <p>🌱 I love <b>Cloud computing & Linux</b></p>
 
-<h3 align="left">I'm interested in</h3>
+<h3 align="left">Language & Tools</h3>
 <p align="left">
   <a
     href="https://golang.org"
