@@ -53,7 +53,7 @@
       width="40"
       height="40" />
   </a>
-    <a
+  <a
     href="https://expressjs.com"
     target="_blank"
     rel="noreferrer">
@@ -74,7 +74,7 @@
       width="40"
       height="40" />
   </a>
-    <a
+  <a
     href="https://www.mongodb.com/"
     target="_blank"
     rel="noreferrer">
@@ -84,7 +84,7 @@
       width="40"
       height="40" />
   </a>
-    <a
+  <a
     href="https://redis.io"
     target="_blank"
     rel="noreferrer">
@@ -94,7 +94,7 @@
       width="40"
       height="40" />
   </a>
-    <a
+  <a
     href="https://www.linux.org/"
     target="_blank"
     rel="noreferrer">
@@ -107,3 +107,4 @@
 </p>
 
 🎮 I play [Chess](https://www.chess.com/member/joko_piano)
+
