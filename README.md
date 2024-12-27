@@ -4,7 +4,6 @@
 <h3 align="left">Language & Tools</h3>
 <p align="left">
   <a
-    href="https://golang.org"
     target="_blank"
     rel="noreferrer">
     <img
@@ -14,7 +13,6 @@
       height="40" />
   </a>
   <a
-    href="https://www.gnu.org/software/bash/"
     target="_blank"
     rel="noreferrer">
     <img
@@ -24,7 +22,6 @@
       height="40" />
   </a>
   <a
-    href="https://www.python.org"
     target="_blank"
     rel="noreferrer">
     <img
@@ -34,7 +31,6 @@
       height="40" />
   </a>
   <a
-    href="https://nodejs.org"
     target="_blank"
     rel="noreferrer">
     <img
@@ -44,7 +40,6 @@
       height="40" />
   </a>
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer">
     <img
@@ -54,7 +49,6 @@
       height="40" />
   </a>
   <a
-    href="https://expressjs.com"
     target="_blank"
     rel="noreferrer">
     <img
@@ -64,7 +58,6 @@
       height="40" />
   </a>
   <a
-    href="https://www.mysql.com/"
     target="_blank"
     rel="noreferrer">
     <img
@@ -74,7 +67,6 @@
       height="40" />
   </a>
   <a
-    href="https://www.mongodb.com/"
     target="_blank"
     rel="noreferrer">
     <img
@@ -84,7 +76,6 @@
       height="40" />
   </a>
   <a
-    href="https://redis.io"
     target="_blank"
     rel="noreferrer">
     <img
@@ -94,7 +85,6 @@
       height="40" />
   </a>
   <a
-    href="https://www.linux.org/"
     target="_blank"
     rel="noreferrer">
     <img
